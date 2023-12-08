@@ -4,9 +4,9 @@
 # How to run the app?
 
 # Install dependencies for client
-cd client
-npm install
-npm start
+cd client \
+npm install \
+npm start \
 
 # Install dependencies for server
 cd server
