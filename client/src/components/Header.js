@@ -60,8 +60,7 @@ const Header = () => {
         <>
             <header>
                 <nav>
-                    
-                <NavLink to="/"><h1>HP Cloud</h1></NavLink>
+                  <a href="https://shahid-ahmed.netlify.app/"><h1>Shahid Ahmed</h1></a>  
                     <div className="avtar">
                         {
                             logindata.ValidUserOne ? <Avatar style={{ background: "salmon", fontWeight: "bold", textTransform: "capitalize" }} onClick={handleClick}>{logindata.ValidUserOne.fname[0].toUpperCase()}</Avatar> :
