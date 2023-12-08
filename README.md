@@ -21,7 +21,24 @@ npm install
 
 # Server runs on http://localhost:8009 and client on http://localhost:3000
 
-### `Frontend - React.JS Backend - Node.JS & Express.JS Database - MongoDB, MongoDB Atlas Authentication :- JWT Authentication`
+### `Frontend - React.JS`
+### `Backend - Node.JS & Express.JS`
+### `Database - MongoDB, MongoDB Atlas`
+### `Authentication :- JWT Authentication`
+
+
+# Packages Used
+### `bycryptjs`
+### `validator`
+### `moongose`
+### `nodemailer`
+### `jwt`
+### `cookie parser`
+
+
+
+
+
 
 
 
